@@ -31,7 +31,7 @@ const App = () => {
 
   const ref = useRef();
 
-  const api_key = "at_b5Xu5ok01zecKKvVPQUf8hxYl9lMA";
+  const api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
   const api_url = "https://geo.ipify.org/api/v1?";
 
   const reset = () => {
